@@ -1,0 +1,14 @@
+:root {
+    --main-color: #B80F0A;
+   }
+
+.offerDayImage{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.footer-text {
+    font-size: 0.75rem;
+}
+
