@@ -1,8 +1,18 @@
 :root {
     --main-color: #B80F0A;
-   }
+}
 
-.offerDayImage{
+body {
+    /* background-color: rgb(236, 236, 236); */
+
+    background-color: #F8F9FA;
+    /*Default do menu do bootstrap/
+
+    /* background-color: #EDEDED; Background Mercado Livre */
+    font-family: Helvetica, arial, sans-serif;
+}
+
+.offerDayImage {
     width: 200px;
     height: 200px;
     margin: auto;
@@ -12,3 +22,42 @@
     font-size: 0.75rem;
 }
 
+.main-titles {
+    background-color: #B80F0A;
+    border-radius: 50px;
+    color: rgb(247, 247, 247);
+    padding: 0.5rem 0 0.5rem 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+
+/* PRODUCT CHOOSEN PAGE */
+
+.product-choosen-text {
+    text-align: justify;
+}
+
+.quantity-label {
+    line-height: 2.5;
+    margin: 0 1rem 1rem 0;
+}
+
+.add-to-cart-button {
+    background-color: #B80F0A;
+    color: #FFF;
+}
+
+.add-to-cart-button:hover {
+    background-color: #ce120b;
+}
+
+.delivery-text{
+    color: #1ec56f;
+}
+
+.fundo{
+    background-color: #F8F9FA;
+    color: #000000;
+}
