@@ -9,7 +9,7 @@ body {
     /*Default do menu do bootstrap/
 
     /* background-color: #EDEDED; Background Mercado Livre */
-    font-family: Helvetica, arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .offerDayImage {
@@ -24,7 +24,7 @@ body {
 
 .main-titles {
     background-color: #B80F0A;
-    border-radius: 50px;
+    border-radius: 25px;
     color: rgb(247, 247, 247);
     padding: 0.5rem 0 0.5rem 0.5rem;
     margin-top: 1rem;
@@ -37,6 +37,9 @@ body {
 
 .product-choosen-text {
     text-align: justify;
+}
+.product-choosen-image {
+    border-radius: 10px;
 }
 
 .quantity-label {
@@ -61,3 +64,36 @@ body {
     background-color: #F8F9FA;
     color: #000000;
 }
+
+/* INSTITUTIONAL PAGE */
+.objetive-container{
+    padding: 1rem;
+    height: 20px;
+}
+
+.objetive-text{
+    text-align: justify;
+}
+
+.container-org-card{
+    background-color: #aa211c;
+    color: #FFF;
+    border-radius: 15px;
+
+}
+
+.company-objetives{
+    text-align: center;
+}
+.company-objetives-title{
+    color:rgb(255, 255, 255);
+}
+
+.star-icon{
+    color: rgb(231, 231, 36);
+}
+
+.company-org-text {
+    text-align: justify;
+}
+
