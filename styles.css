@@ -1,5 +1,10 @@
 :root {
-    --main-color: #B80F0A;
+    
+    --main-color: #cc232c;
+
+    --background-main: #F8F9FA;
+
+    --text-color: #fdfdfd;
 }
 
 body {
@@ -12,24 +17,36 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.offerDayImage {
-    width: 200px;
-    height: 200px;
+.corousel-image {
+    width: auto;
+    height: auto;
+    max-height: 400px;
+    max-width: 375px;
     margin: auto;
+}
+
+.offerDayImage {
+    max-width: 200px;
+    max-height: 200px;
+    margin: auto;
+}
+
+.theme-container{
+    background-color: var(--main-color);
+    border-radius: 10px;
+    color: var(--text-color);
+    padding: 0.5rem 0 0.5rem 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: solid rgb(17, 17, 17) 2px;
 }
 
 .footer-text {
     font-size: 0.75rem;
 }
 
-.main-titles {
-    background-color: #B80F0A;
-    border-radius: 25px;
-    color: rgb(247, 247, 247);
-    padding: 0.5rem 0 0.5rem 0.5rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-
+.social-icons{
+    color: var(--text-color);
 }
 
 
@@ -48,12 +65,12 @@ body {
 }
 
 .add-to-cart-button {
-    background-color: #B80F0A;
-    color: #FFF;
+    background-color: var(--main-color);
+    color: var(--text-color);
 }
 
 .add-to-cart-button:hover {
-    background-color: #ce120b;
+    background-color: #b92128;
 }
 
 .delivery-text{
@@ -76,8 +93,8 @@ body {
 }
 
 .container-org-card{
-    background-color: #aa211c;
-    color: #FFF;
+    background-color: var(--main-color);
+    color: var(--text-color);
     border-radius: 15px;
 
 }
@@ -86,14 +103,11 @@ body {
     text-align: center;
 }
 .company-objetives-title{
-    color:rgb(255, 255, 255);
-}
-
-.star-icon{
-    color: rgb(231, 231, 36);
+    color: var(--text-color);
 }
 
 .company-org-text {
     text-align: justify;
 }
+
 
