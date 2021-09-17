@@ -1,5 +1,5 @@
 :root {
-    
+
     --main-color: #cc232c;
 
     --background-main: #F8F9FA;
@@ -8,13 +8,12 @@
 }
 
 body {
-    /* background-color: rgb(236, 236, 236); */
-
     background-color: #F8F9FA;
-    /*Default do menu do bootstrap/
-
-    /* background-color: #EDEDED; Background Mercado Livre */
     font-family: 'Roboto', sans-serif;
+}
+
+.menu-titles{
+    font-weight: 700;
 }
 
 .corousel-image {
@@ -31,7 +30,7 @@ body {
     margin: auto;
 }
 
-.theme-container{
+.theme-container {
     background-color: var(--main-color);
     border-radius: 10px;
     color: var(--text-color);
@@ -41,20 +40,13 @@ body {
     border-bottom: solid rgb(17, 17, 17) 2px;
 }
 
-.footer-text {
-    font-size: 0.75rem;
-}
-
-.social-icons{
-    color: var(--text-color);
-}
-
 
 /* PRODUCT CHOOSEN PAGE */
 
 .product-choosen-text {
     text-align: justify;
 }
+
 .product-choosen-image {
     border-radius: 10px;
 }
@@ -73,36 +65,46 @@ body {
     background-color: #b92128;
 }
 
-.delivery-text{
+.delivery-text {
     color: #1ec56f;
 }
 
-.fundo{
+.fundo {
     background-color: #F8F9FA;
     color: #000000;
 }
 
+
+
+
 /* INSTITUTIONAL PAGE */
-.objetive-container{
+
+.objetive-container {
     padding: 1rem;
     height: 20px;
 }
 
-.objetive-text{
+.objetive-text {
     text-align: justify;
 }
 
-.container-org-card{
+.container-org-card {
     background-color: var(--main-color);
     color: var(--text-color);
     border-radius: 15px;
 
 }
 
-.company-objetives{
+.content-institutional {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.company-objetives {
     text-align: center;
 }
-.company-objetives-title{
+
+.company-objetives-title {
     color: var(--text-color);
 }
 
@@ -110,4 +112,36 @@ body {
     text-align: justify;
 }
 
+.institutional-link:link {
+    text-decoration: none;
+    color: var(--text-color);
+}
 
+.institutional-link:hover {
+    text-decoration: none;
+    color: #bbbbbbb6;
+    transition: 0.25s;
+}
+
+.institutional-link:visited {
+    color: var(--text-color);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+
+
+/* FOOTER */
+
+.footer-text {
+    font-size: 0.75rem;
+}
+
+.social-icons {
+    color: var(--text-color);
+}
+
+.footer-titles{
+    font-weight: 600;
+}
