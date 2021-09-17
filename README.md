@@ -2,7 +2,7 @@
 First challenger of Gama Experience #39 [Hacker]. Site using HTML and CSS.
 
 
-#Gama Experience Hacker - Desafio individual 1
+#G ama Experience Hacker - Desafio individual 1
 
 Objetivo: Desenvolver um website de catálogo de produtos. O site deve ser responsivo e deve contenplar as seguintes características:
 
@@ -13,7 +13,7 @@ Objetivo: Desenvolver um website de catálogo de produtos. O site deve ser respo
 [x] Uma página institucional
 
 
-##Sprint 1 - Preparação para o projeto:
+## Sprint 1 - Preparação para o projeto:
 
 Estória 1: Estudo dos requisitos do cliente, busca de referências de layouts e decisão do layout a ser criado.
 Estimativa de tempo: 2 horas.
@@ -24,7 +24,7 @@ Estimativa de tempo: 1 hora.
 Estória 3: Criação da estrutura principal do site.
 Estimativa de tempo: 1 hora.
 
-##Sprint 2 - Criação da Página principal:
+## Sprint 2 - Criação da Página principal:
 
 Estória 1: Criação e estilização do menu.
 Estimativa de tempo: 1 hora.
@@ -35,7 +35,7 @@ Estimativa de tempo: 20 minutos.
 Estória 3: Criação e estilização das seções da page index.html (ofertas do dia, nossos produtos e footer).
 Estimativa de tempo: 3 horas.
 
-##Sprint 3 - Criação das páginas de vitrine, institucional e ofertas do dia:
+## Sprint 3 - Criação das páginas de vitrine, institucional e ofertas do dia:
 
 Estória 1: Criação e estilização da page Store.html para visualização dos produtos.
 Estimativa de tempo: 30 minutos.
@@ -46,7 +46,7 @@ Estimativa de tempo: 2 horas.
 Estória 3: Criação e estilização da page OfferDay.html.
 Estimativa de tempo: 10 minutos.
 
-##Sprint 4 - Criação da página de detalhamento do produto, ajustes de layout do site e conexão entre páginas:
+## Sprint 4 - Criação da página de detalhamento do produto, ajustes de layout do site e conexão entre páginas:
 
 Estória 1: Criação e estilização da page Product.html (Página com detalhes do produto).
 Estimativa de tempo: 1 hora.
@@ -57,7 +57,7 @@ Estimativa de tempo: 10 minutos.
 Estória 3: Ajuste de layout geral.
 Estimativa de tempo: 2 horas.
 
-##Sprint 5 - Melhoras de layout e testes:
+## Sprint 5 - Melhoras de layout e testes:
 
 Estória 1: Melhoria de layout para melhorar usabilidade do usuário.
 Estimativa de tempo: 1 hora.
