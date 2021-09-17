@@ -2,15 +2,15 @@
 First challenger of Gama Experience #39 [Hacker]. Site using HTML and CSS.
 
 
-#G ama Experience Hacker - Desafio individual 1
+# Gama Experience Hacker - Desafio individual 1
 
 Objetivo: Desenvolver um website de catálogo de produtos. O site deve ser responsivo e deve contenplar as seguintes características:
 
-[x] Uma vitrine virtual de produtos
+- [x] Uma vitrine virtual de produtos
 
-[x] Uma página com detalhes de um determinado produto
+- [x] Uma página com detalhes de um determinado produto
 
-[x] Uma página institucional
+- [x] Uma página institucional
 
 
 ## Sprint 1 - Preparação para o projeto:
