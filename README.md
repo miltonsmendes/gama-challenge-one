@@ -1,5 +1,5 @@
-# gama-challenger-one
-First challenger of Gama Experience #39 [Hacker]. Site using HTML and CSS.
+# gama-challenge-one
+First challenge of Gama Experience #39 [Hacker]. Site using HTML and CSS.
 
 
 # Gama Experience Hacker - Desafio individual 1
